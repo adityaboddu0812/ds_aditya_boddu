@@ -6,6 +6,10 @@ This project analyzes cryptocurrency trading performance in relation to market s
 
 The analysis examines how trading metrics (PnL, volume, win rate) differ between periods of market fear and greed, providing insights into trading behavior patterns and performance across different market sentiment conditions.
 
+## Data Files
+Due to GitHub file size limitations, large CSV files are not stored in this repository.
+All cleaned and processed datasets are generated via the Google Colab notebooks and stored in Google Drive.
+
 ## Project Structure
 
 The project is stored in Google Drive at `/content/drive/MyDrive/ds_aditya_boddu/`:
@@ -119,5 +123,6 @@ All processed data and visualizations are automatically saved:
 ## Author
 
 Aditya Boddu
+
 
 
