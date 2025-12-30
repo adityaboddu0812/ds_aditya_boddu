@@ -16,18 +16,18 @@ The project is stored in Google Drive at `/content/drive/MyDrive/ds_aditya_boddu
 
 ```
 ds_aditya_boddu/
-├── notebook_1.ipynb                    # Main analysis notebook (run in Google Colab)
-├── csv_files/                          # Processed data files
+├── notebook_1.ipynb                   # Main analysis notebook (run in Google Colab)
+├── csv_files/                         # Processed data files
 │   ├── cleaned_trades.csv             # Cleaned trading data
 │   ├── sentiment_daily.csv            # Daily Fear & Greed Index data
 │   ├── daily_trading_metrics.csv      # Aggregated daily trading metrics
 │   └── merged_trading_sentiment.csv   # Merged trading and sentiment data
-├── outputs/                            # Generated visualizations
-│   ├── pnl_fear_vs_greed.png         # PnL comparison chart
-│   ├── volume_fear_vs_greed.png      # Volume comparison chart
-│   └── winrate_fear_vs_greed.png    # Win rate comparison chart
-├── ds_report.pdf                       # Project report
-└── README.md                           # This file
+├── outputs/                           # Generated visualizations
+│   ├── pnl_fear_vs_greed.png          # PnL comparison chart
+│   ├── volume_fear_vs_greed.png       # Volume comparison chart
+│   └── winrate_fear_vs_greed.png      # Win rate comparison chart
+├── ds_report.pdf                      # Project report
+└── README.md                          # This file
 ```
 
 ## Data Sources
@@ -123,6 +123,7 @@ All processed data and visualizations are automatically saved:
 ## Author
 
 Aditya Boddu
+
 
 
 
